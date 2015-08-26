@@ -45,7 +45,6 @@ GEM
     mime-types (1.25.1)
     multi_json (1.9.2)
     multipart-post (2.0.0)
-    power_assert (0.2.4)
     rack (1.4.5)
     rack-cache (1.2)
       rack (>= 0.4)
@@ -68,8 +67,6 @@ GEM
       multi_json (~> 1.0)
       rack (~> 1.0)
       tilt (~> 1.1, != 1.3.0)
-    test-unit (3.1.3)
-      power_assert
     tilt (1.4.1)
     tins (0.13.2)
 
@@ -90,4 +87,3 @@ DEPENDENCIES
   rake
   rest-client (~> 1.6.0)
   rspec (~> 2.4.0)
-  test-unit (~> 3.1.3)
